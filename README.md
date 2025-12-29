@@ -84,8 +84,6 @@ IPL-New-EDA/
 ## 👤 Author
 **Abhijeet Patange**  
 AI & Data Science Enthusiast  
-
 📧 Email: abhijeetpatange009@gmail.com  
-🔗 GitHub: https://github.com/your-github-username  
-🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin-username
+
 
